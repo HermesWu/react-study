@@ -1,14 +1,14 @@
 {
-  "main.css": "/build/static/css/main.585bf449.chunk.css",
-  "main.js": "/build/static/js/main.3aacb2cb.chunk.js",
-  "main.js.map": "/build/static/js/main.3aacb2cb.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/build/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/build/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "/build/static/js/runtime~main.3923d73d.js",
-  "runtime~main.js.map": "/build/static/js/runtime~main.3923d73d.js.map",
-  "static/media/logo.svg": "/build/static/media/logo.5d5d9eef.svg",
-  "static/css/main.585bf449.chunk.css.map": "/build/static/css/main.585bf449.chunk.css.map",
-  "index.html": "/build/index.html",
-  "precache-manifest.71ea2e1c82a83f13e352baa7d11cc509.js": "/build/precache-manifest.71ea2e1c82a83f13e352baa7d11cc509.js",
-  "service-worker.js": "/build/service-worker.js"
+  "main.css": "/react-study/static/css/main.585bf449.chunk.css",
+  "main.js": "/react-study/static/js/main.49065c8d.chunk.js",
+  "main.js.map": "/react-study/static/js/main.49065c8d.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/react-study/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/react-study/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/react-study/static/js/runtime~main.e0d9cffd.js",
+  "runtime~main.js.map": "/react-study/static/js/runtime~main.e0d9cffd.js.map",
+  "static/media/logo.svg": "/react-study/static/media/logo.5d5d9eef.svg",
+  "static/css/main.585bf449.chunk.css.map": "/react-study/static/css/main.585bf449.chunk.css.map",
+  "index.html": "/react-study/index.html",
+  "precache-manifest.0db656d78dc4089d21beaea923517e36.js": "/react-study/precache-manifest.0db656d78dc4089d21beaea923517e36.js",
+  "service-worker.js": "/react-study/service-worker.js"
 }
